@@ -90,3 +90,8 @@ Títulos claros para cada gráfico
 Cores personalizadas para melhor leitura
 
 Integração do resultado das queries SQL com Matplotlib
+
+### 👨‍💻 Autor
+Cícero Ramalho Júnior 
+
+#### 🔗 LinkedIn: www.linkedin.com/in/cicerorjunior
